@@ -1,0 +1,16 @@
+Product,Category,Price,Warranty,Stock,Description
+Laptop,Computers,185000,1 Year,8,"15.6 inch FHD, Core i5, 16GB RAM, 512GB SSD"
+Desktop PC,Computers,165000,1 Year,4,"Core i5, 16GB RAM, 512GB SSD, Windows 11"
+24 inch Monitor,Displays,38500,2 Years,10,"24 inch FHD IPS, 75Hz, HDMI"
+27 inch Monitor,Displays,62000,2 Years,0,"27 inch QHD IPS, 144Hz, HDMI + DisplayPort"
+Wireless Mouse,Accessories,2500,6 Months,25,"2.4GHz wireless, silent click"
+Gaming Mouse,Accessories,7500,1 Year,12,"RGB, 12000 DPI, 6 programmable buttons"
+Keyboard,Accessories,4500,6 Months,20,USB wired keyboard with Sinhala/English keys
+Mechanical Keyboard,Accessories,14500,1 Year,6,"RGB mechanical, blue switches, full size"
+Webcam 1080p,Accessories,8900,1 Year,9,Full HD webcam with built-in microphone
+USB-C Hub,Accessories,6500,6 Months,15,"7-in-1: HDMI 4K, 3x USB 3.0, SD card, PD charging"
+External SSD 1TB,Storage,28500,3 Years,7,"Portable NVMe SSD, USB-C, up to 1000MB/s"
+Pen Drive 128GB,Storage,3200,1 Year,40,"USB 3.2 flash drive, metal body"
+Bluetooth Earbuds,Audio & Mobile,9500,6 Months,18,"Wireless earbuds, noise cancelling, 30h battery"
+Power Bank 20000mAh,Audio & Mobile,7800,6 Months,22,"20000mAh, 22.5W fast charge, USB-C + USB-A"
+Wi-Fi Router,Networking,12500,1 Year,5,"Dual band AC1200 router, 4 antennas"

@@ -1,0 +1,5 @@
+# Caddy obtains and renews the Let's Encrypt certificate automatically
+{$N8N_DOMAIN} {
+	encode gzip
+	reverse_proxy n8n:5678
+}
